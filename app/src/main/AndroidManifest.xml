@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AP_M_ControlesComunes">
         <activity
+            android:name=".MainDatosEnviado"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

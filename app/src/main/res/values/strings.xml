@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AP_M_ControlesComunes</string>
+    <string name="bt_enviar">Send</string>
+    <string name="lbl_Nombre">Nombre</string>
 </resources>
